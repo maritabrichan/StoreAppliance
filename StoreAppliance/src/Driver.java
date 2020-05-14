@@ -5,7 +5,7 @@ import java.util.Scanner;
 //-----------------------------------------------------
 /**
  * 
- * @author  Marita Brichan and Mohona Mazumdar
+ * @author  Marita Brichan
  *<br>
  *<br> 
  *
